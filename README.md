@@ -19,9 +19,9 @@ Google Colab, Python (Pandas, Matplotlib, Seaborn)
 3. Churn Insights & Patterns  
 
 **Key Visualizations:**  
-Revenue Trend
-Top Products by Sales
-Revenue by Region
+![Revenue Trend]
+![Top Products by Sales]
+![Revenue by Region]
 
 **Key Insights:**  
 - Highest churn observed in month-to-month contract customers  
