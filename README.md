@@ -15,7 +15,7 @@ Google Colab, Python (Pandas, Matplotlib, Seaborn)
 
 **Steps Taken:**  
 1. Data Cleaning & Preprocessing  
-2. Exploratory Data Analysis (e.g., churn vs monthly charges, contract type, payment method)  
+2. Exploratory Data Analysis (e.g., visualization ,churn vs monthly charges, contract type, payment method)  
 3. Churn Insights & Patterns  
 
 **Key Visualizations:**  
