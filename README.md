@@ -7,10 +7,11 @@ Predict and analyze customer churn in a telecom company using historical custome
 Google Colab, Python (Pandas, Matplotlib, Seaborn)
 
 *Dataset:*  
-- Source: Company sales records  
-- Rows/Columns: 10,000 rows × 15 columns  
-- Features: Date, Product, Region, Sales, Revenue, Profit  
-- Description: Monthly sales data for all products across different regions in 2024.
+- Source: Telecom customer dataset  
+- Rows/Columns: 7,000 rows × 10 columns  
+- Features: CustomerID, Gender, SeniorCitizen, Partner, Dependents, Tenure, PhoneService, MonthlyCharges, TotalCharges, Churn  
+- Description: Contains information about telecom customers, their services, contracts, and churn status.
+
 
 **Steps Taken:**  
 1. Data Cleaning & Preprocessing  
