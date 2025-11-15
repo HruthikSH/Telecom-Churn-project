@@ -1,4 +1,4 @@
-Telecom Churn Analysis
+# Telecom Churn Analysis
 
 **Objective:**  
 Predict and analyze customer churn in a telecom company using historical customer data.
@@ -6,9 +6,11 @@ Predict and analyze customer churn in a telecom company using historical custome
 **Tools Used:**  
 Google Colab, Python (Pandas, Matplotlib, Seaborn)
 
-**Dataset:**  
-- Source: Telecom customer dataset CSV  
-- Rows/Columns: [Add info if needed]
+*Dataset:*  
+- Source: Company sales records  
+- Rows/Columns: 10,000 rows × 15 columns  
+- Features: Date, Product, Region, Sales, Revenue, Profit  
+- Description: Monthly sales data for all products across different regions in 2024.
 
 **Steps Taken:**  
 1. Data Cleaning & Preprocessing  
