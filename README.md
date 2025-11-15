@@ -14,5 +14,9 @@ Customer demographics, account info, services subscribed, and churn status.
 **Tools Used:**  
 Python | Pandas | NumPy | Matplotlib | Seaborn | Google Colab
 
+
+[Download the cleaned dataset]
+https://docs.google.com/spreadsheets/d/1lkmXSH3c7vD_SqrxlGPeHsJGmGjxirB4/edit?usp=sharing&ouid=109490057503958008370&rtpof=true&sd=true
+
 **Author:** 
 Hruthik – Aspiring Data Analyst
